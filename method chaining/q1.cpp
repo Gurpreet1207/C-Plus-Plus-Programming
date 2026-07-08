@@ -4,7 +4,7 @@ using namespace std;
 class calculator{
     int value;
     public:
-    calculator()//constructer 
+    calculator()//constructor 
     {
         value=0;
     }
